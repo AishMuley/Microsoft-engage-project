@@ -18,21 +18,21 @@ __Build With -__
 
 __Module Used -__
 All The Module are Latest Version.
-OpenCV Contrib  Python 4.5.5.64
-face_recognition
-numpy
-pandas
-plotty
-csv
-cv2
-os
-requests
-cmake
-dlib
-PIL
-datetime
-streamlit
-streamlit_lottie
+            OpenCV Contrib  Python 4.5.5.64
+            face_recognition
+            numpy
+            pandas
+            plotty
+            csv
+            cv2
+            os
+            requests
+            cmake
+            dlib
+            PIL
+            datetime
+            streamlit
+            streamlit_lottie
 
 __Software Used -__
 Pycharm 2022.1.1
