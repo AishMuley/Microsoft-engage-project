@@ -11,8 +11,9 @@ With a face recognition attendance system, the entire environment is automated. 
 __Tech Used :__
 
 __Build With -__
-Python 3.10
-Python 3.9
+
+  Python 3.10
+  Python 3.9
 
 
 __Module Used -__
