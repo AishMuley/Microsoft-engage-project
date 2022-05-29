@@ -18,6 +18,7 @@ __Build With -__
 
 __Module Used -__
 All The Module are Latest Version.
+
             OpenCV Contrib  Python 4.5.5.64
             face_recognition
             numpy
