@@ -36,8 +36,9 @@ All The Module are Latest Version.
             streamlit_lottie
 
 __Software Used -__
-Pycharm 2022.1.1
-VS CODE(Desktop C & C++ environment required)
+
+      Pycharm 2022.1.1
+      VS CODE(Desktop C & C++ environment required)
 
 __create environment :__
 (Requirements: Open the complete folder of project in the pycharm,the folder should contain Training_images folder,Attendance.csv,Final.py,config.toml file,img3.jpg) 
@@ -53,18 +54,20 @@ Streamlit run Camera.py
 ![Screenshot (58)](https://user-images.githubusercontent.com/106415423/170851810-b466c254-d173-4a64-8269-b8e5404ab6ab.png)
 
 __Features :__
-1.Upload image of new user
-2.Train faces
-3.Capture face
-4.Recognize Faces  
-5. Automatic Attendance in file
-6.date and entering time mentioned in file
+
+      1.Upload image of new user
+      2.Train faces
+      3.Capture face
+      4.Recognize Faces  
+      5. Automatic Attendance in file
+      6.date and entering time mentioned in file
 
 __Contents:__
-Home page:Introduction of the Project
- If you are new student then you have to register first which is done by   Uploading your image  .It saved in Trianing_images 
-Mark Attendance:To mark the Attendance by Recognizing the face
-View Attendance Sheet:To view the attendance sheet
+
+      Home page:Introduction of the Project
+       If you are new student then you have to register first which is done by   Uploading your image  .It saved in Trianing_images 
+      Mark Attendance:To mark the Attendance by Recognizing the face
+      View Attendance Sheet:To view the attendance sheet
 
 
 
